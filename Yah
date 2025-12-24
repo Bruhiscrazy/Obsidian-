@@ -25,7 +25,7 @@ local Window = Library:CreateWindow({
 
 	Title = "FTAP-Bruh",
 	Footer = "version: FTAP 1.0?? bruh i guess bro",
-	Icon = 137041126619501,
+	Icon = 78707748741800,
 	NotifySide = "Right",
 	ShowCustomCursor = true,
 })
